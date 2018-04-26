@@ -5,10 +5,6 @@ module Elm.Encoder
   , toElmEncoderRefWith
   , toElmEncoderSource
   , toElmEncoderSourceWith
-  , HasEncoder
-  , render
-  , HasEncoderRef
-  , renderRef
   ) where
 
 import Control.Monad.Reader
